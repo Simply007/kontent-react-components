@@ -1,5 +1,10 @@
 # Kontent.ai's React Components
 
+>[!WARNING]
+>**Deprecation notice**
+>
+>This repository has been archived and is no longer maintained. Module superseded by [@kontent-ai/rich-text-resolver](https://github.com/kontent-ai/rich-text-resolver-js).
+
 The package containing React components useful when processing Kontent.ai's data to the site.
 
 ## Install
